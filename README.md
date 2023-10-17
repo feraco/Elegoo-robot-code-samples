@@ -1,6 +1,5 @@
 # 🚗 Elegoo Smart Car Example Code
 
-![Elegoo Smart Car](elegoo_smart_car.jpg)
 
 This repository contains example code for controlling and programming the Elegoo Smart Car using an Arduino-compatible microcontroller. These examples cover a range of functionalities, from basic movements to advanced features like obstacle avoidance and line following.
 
